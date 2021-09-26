@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgba(65, 250, 188, 0.397) !important;
+}
+
+.btn{
+    background: #0f2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    border-radius: 10px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn:hover{
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1)!important;
+    color:rgb(65, 250, 188) !important; 
+}

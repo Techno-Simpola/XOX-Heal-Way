@@ -1,0 +1,41 @@
+th {
+    font-weight:bold !important;
+    color: rgb(238, 199, 23) !important;
+}
+
+.main-upper{
+    justify-content: center;
+    align-items: center;
+}
+
+.tablecss{
+    border-radius: 20px !important;
+    background-color: white !important;
+}
+
+/* .table-view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.header-jumbo{
+    border-radius: 20px !important;
+    background: #0f2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 5px 10px rgb(238, 199, 23);
+}
+
+.lower-heading{
+    color:rgb(65, 250, 188) !important;
+    font-weight:bold !important;
+}
+
+td {
+    font-size: 20px !important;
+    font-family: 'Roboto';
+}

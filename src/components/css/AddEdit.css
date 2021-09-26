@@ -1,0 +1,23 @@
+label{
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+}
+
+input {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    transition: none !important;
+}
+
+.adding-form{
+    display: flex;
+}
+
+.form-upper{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    box-shadow: 5px 10px rgb(238, 199, 23);
+
+}
